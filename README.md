@@ -1,4 +1,4 @@
-Replace "<Your Token Goes Here>" at the end of the main.py files in the folders oliver and uno with valid tokens of Discord applications.
+Replace "\<Your Token Goes Here\>" at the end of the main.py files in the folders oliver and uno with valid tokens of Discord applications.
 Also replace "uno_id" variable in oliver/main.py with the ID of the bot that's going to be acting as the middleground bot.
 You can create Discord applications through the Discord developer portal: https://discord.com/developers/applications/
 You're going to need to install Python on your computer and then you're going to need to open command prompt and write: pip install discord.py
