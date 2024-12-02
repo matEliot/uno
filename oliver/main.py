@@ -15,7 +15,7 @@ color_list = ["red", "green", "blue", "yellow", "wild"]
 action_list = ["reverse", "skip", "draw two", "draw four", ""]
 
 joined = False
-uno_id = 1183193664839749732
+uno_id = <MIDDLEGROUND BOT ID>
 hand = []
 players = {}
 players_ = []
@@ -366,4 +366,4 @@ async def on_message(message):
                     players[playerId]["color"] = ["", 0]
                 players_ += [playerId]
 
-bot.run("<OLIVER BOT TOKEN>")
+bot.run(<OLIVER BOT TOKEN>)
