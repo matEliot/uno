@@ -443,4 +443,4 @@ async def on_message(message):
             case "last" | "l":
                 await display_pile(channelId, title="Previous move")
 
-bot.run("<MIDDLEGROUND BOT TOKEN HERE>")
+bot.run(<MIDDLEGROUND BOT TOKEN HERE>)
